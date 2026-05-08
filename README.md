@@ -1,4 +1,4 @@
 # My-college
 First repository
 <br>
-Author - Siddhartha singh
+Author - Siddhartha singh(My college)
